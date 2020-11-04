@@ -11,4 +11,6 @@ end
   def all_phrases
     puts mario
     puts toadstool
+    puts "It's Dangerous To Go Alone! Take This."
+    "It's Dangerous To Go Alone! Take This."
   end
